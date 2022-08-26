@@ -1,8 +1,6 @@
- ###  Hi, 👋 I am Alka
-
 ![I am GitHub Readme Generator's creator](https://github.com/alkarani01/Biostatistics/blob/main/Banner.jpg)
 
-#### **I am biotechnologist turned into a consultant for life science research related services**
+ ###  Hi, 👋 I am biotechnologist turned into a consultant for life science research related services
 
 This is my programming profile for muti-omics data science, biostatistics and bioinformatics 👾
 
