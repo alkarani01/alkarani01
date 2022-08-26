@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Alka
 #### I am biotechnologist
 This is my programming profile for muti-omics data science, biostatistics and bioinformatics.
-
+![I am GitHub Readme Generator's creator](https://github.com/alkarani01/Biostatistics/blob/main/Banner.jpg)
 Skills: C/ R/ Python / HTML / UNIX/ PHP/ JS/ MySQL
 
 - 🔭 I’m currently working on this page. 
