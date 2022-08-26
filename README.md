@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alka
 #### I am biotechnologist
-I made this profile for my biostatistics and bioinformatics codes.
+This is my programming profile for muti-omics data science, biostatistics and bioinformatics.
 
 Skills: C/ R/ Python / HTML / UNIX/ PHP/ JS/ MySQL
 
