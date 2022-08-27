@@ -1,6 +1,6 @@
-![I am GitHub Readme Generator's creator](https://github.com/alkarani01/Biostatistics/blob/main/Banner.jpg)
 
- ###  Hi, 👋 I am biotechnologist turned into a consultant for life science research related services
+
+ ###  Hi, 👋 I am biotechnologist turned into a consultant, have a look at my website http://www.alkarani01.com
 
 This is my programming profile for muti-omics data science, biostatistics and bioinformatics 👾
 
