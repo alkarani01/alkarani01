@@ -8,5 +8,3 @@
 - 🤖 Skills: C/ R/ Python / HTML / UNIX/ PHP/ JS/ MySQL
 - 💬 Ask me about anything 
 - 😁 Fun fact: I am a PhD 
-
-![alt text](https://github.com/alkarani01/Biostatistics/blob/main/dna-gif-8.gif)
