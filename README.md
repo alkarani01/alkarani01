@@ -1,4 +1,4 @@
-![alt text](https://github.com/alkarani01/Biostatistics/blob/main/dna-gif-8.gif)
+
  ###  Hi, 👋 I am biotechnologist turned into a consultant, have a look at my website
 👾👾 This is my programming profile for muti-omics data science, biostatistics and bioinformatics 👾👾
 - 🎯 I’m currently working on this page
