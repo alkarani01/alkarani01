@@ -3,7 +3,7 @@
 👾👾 This is my programming profile for muti-omics data science, biostatistics and bioinformatics 👾👾
 - 🎯 I’m currently working on this page
 - 🧬 I’m currently learning genomic data science 
-- 👯 I’m looking to collaborate on microbiome omics projects 
+- 👯 I’m looking to collaborate on multi-omics projects 
 - 📫 email me at alkarani01@gmail.com
 - 🤖 Skills: C/ R/ Python / HTML / UNIX/ PHP/ JS/ MySQL
 - 💬 Ask me about anything 
