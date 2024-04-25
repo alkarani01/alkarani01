@@ -1,5 +1,5 @@
 
- ###  Hi, 👋 I am biotechnologist turned into a consultant, have a look at my website
+ ###  Hi, 👋 I am a biotechnologist turned into a consultant, have a look at my website
 👾👾 This is my programming profile for muti-omics data science, biostatistics and bioinformatics 👾👾
 - 🎯 I’m currently working on this page
 - 🧬 I’m currently learning genomic data science 
